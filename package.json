@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  },
+  "name": "bot_discord",
+  "version": "0.1.0",
+  "description": "Bot discord by océance",
+  "main": "main.js",
+  "repository": "https://github.com/OceanceFourdain/bot_discord.git",
+  "author": "OceanceFourdain <oceance.fourdain80@gmail.com>",
+  "license": "MIT"
+}
